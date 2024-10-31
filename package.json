@@ -1,0 +1,19 @@
+{
+  "name": "b9_5_npm",
+  "version": "1.0.0",
+  "description": "B9.5 Практикум",
+  "main": "arrayUtils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bullterrier666/B9_npm.git"
+  },
+  "author": "Vitaly Pronin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bullterrier666/B9_npm/issues"
+  },
+  "homepage": "https://github.com/bullterrier666/B9_npm#readme"
+}
